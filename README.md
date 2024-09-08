@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chrolemist
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning C#.
+- 🌱 I’m currently on my second year in Borås Högskola studying programming.
 - 💞️ I’m looking to collaborate on any simple project.
 - 📫 How to reach me crv87@outlook.com
 
