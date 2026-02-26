@@ -19,7 +19,7 @@ Graduating June 2026 from the University of Borås, Sweden.
 - **Practical Application of AI Agents** – Implementing intelligent systems in software solutions.
 
 ### 📫 Connect with me
-- **LinkedIn:** [linkedin.com/in/christianvittaniemi87](https://www.linkedin.com/in/christianvittaniemi-sa/)
+- **[LinkedIn](https://www.linkedin.com/in/christianvittaniemi-sa/)**
 - **Email:** Crv87@outlook.com
 <!---
 Chrolemist/Chrolemist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
