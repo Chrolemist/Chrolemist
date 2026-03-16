@@ -12,7 +12,7 @@ Graduating June 2026 from the University of Borås, Sweden.
 
 ### 🚀 Featured Projects
 - **[Grounded Theory App](https://grounded-theory-app-789879206246.europe-west1.run.app)** – A platform for analysis methodology built with React.
-- **[Webchat](https://webchat-86487538286.europe-west1.run.app/)** – Real-time chat application focused on scalability.
+- **[Webchat](https://webchat-86487538286.europe-west1.run.app/)** – Real-time chat.
 
 ### 📈 Currently Learning...
 - **Research Methods in Information Technology** – Deepening my knowledge in scientific methodology for IT projects.
