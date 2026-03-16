@@ -1,4 +1,4 @@
-# Hi, I'm Christian! 👋
+# Welcome...
 
 Aspiring System Architect focusing on modern web development, DevOps, and AI. 
 Graduating June 2026 from the University of Borås, Sweden.
@@ -21,7 +21,7 @@ Graduating June 2026 from the University of Borås, Sweden.
 
 ### 📫 Connect with me
 - **[LinkedIn](https://www.linkedin.com/in/christianvittaniemi-sa/)**
-- **Email:** Crv87@outlook.com
+- **Email:** chrisitanvittaniemi@gmail.com
 <!---
 Chrolemist/Chrolemist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
