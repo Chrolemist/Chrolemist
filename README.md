@@ -11,8 +11,6 @@ Graduating June 2026 from the University of Borås, Sweden.
 - **Other:** Machine Learning, Unity (AI Agents), Agile Methodologies
 
 ### 🚀 Featured Projects
-- **[Grounded Theory App](https://grounded-theory-app-789879206246.europe-west1.run.app)** – A platform for analysis methodology built with React.
-- **[Webchat](https://webchat-86487538286.europe-west1.run.app/)** – Real-time chat.
 - **[My new game platform](https://pusselpaus.se)** -  Another one is coming up soon...
 
 ### 📈 Currently Learning...
